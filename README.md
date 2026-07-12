@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm [Sanaullah Yasir] 👋
 
 **AI Engineer | MLOps Practitioner | Building Production-Grade LLM Systems**
 
@@ -64,8 +64,6 @@ Here are a few systems I've architected and deployed end-to-end:
 
 I'm always open to discussing AI architecture, MLOps best practices, or new opportunities.
 
-* 🌐 **Portfolio / Blog:** [yourwebsite.com]
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile]
-* 🐦 **Twitter / X:** [@yourhandle]
-* ✉️ **Email:** [your.email@example.com]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/sanaullah-malik-/]
+* ✉️ **Email:** [sanaullahyasir7@gmail.com]
 # Sanaullah-Yasir
